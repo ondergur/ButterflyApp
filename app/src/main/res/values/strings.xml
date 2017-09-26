@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Butterfly App</string>
+    <string name="UpperName">Owl Android App</string>
+    <string name="name">Ahmet Önder Gür</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="success">Login Successful</string>
+    <string name="unsuccess">Login Unsuccessful</string>
+    <string name="usernamein">Ali</string>
+    <string name="passwordin">Veli</string>
+</resources>
